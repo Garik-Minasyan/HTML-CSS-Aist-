@@ -1,5 +1,5 @@
 @media (max-width:1670px) {
- .girldiv {
+ .girlDiv {
   width: 850px;
   height: 500px;
  }
@@ -7,12 +7,12 @@
     width: 1600px;
     height: 500px; 
  }
- .imgsar {
+ .imgSar {
     display: none;
  }
 
- .deerpen {
-    margin-top:90px;
+ .deerPen {
+    margin-top:100px;
  }
 
  .deer {
@@ -23,6 +23,7 @@
  .pen {
     width: 337px;
     height: 289px;
+    
  }
 
  .opendivdeer {
@@ -50,13 +51,13 @@
 
 @media (max-width:1485px) {
 
-.paragraphflex {
-    display: flex;
-    justify-content:center;
+.paragraphFlex {
+  display: flex;
+  justify-content:center;
   
   }
-  .deerpen {
-      justify-content: center;
+  .deerPen {
+    justify-content: center;
   }
   .zencispirtual {
     justify-content: center;
@@ -66,7 +67,7 @@
   }
 
   .plus {
-      margin-right: 50px;
+    margin-right: 50px;
   }
   .float-left-div {
     margin-top: 120px;
@@ -75,7 +76,7 @@
     margin-top: 60px;
    
 }
-  .textget {
+  .textGet {
     margin-top: 50px;
     margin-left: 160px;
   }
@@ -101,7 +102,7 @@
         margin-top: 110px;
        
     }
-    .girldiv {
+    .girlDiv {
       clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 0);
     }
 
@@ -109,30 +110,30 @@
       width: 105px;
       height: 40px;
   }
-  .textdiv {
-    font-size: 30px;
-    
-  }
+    .textDiv {
+      font-size: 30px;
+      
+    }
 }
 
 @media (max-width:510px) {
-    .articlesread {
+    .articlesRead {
         margin-right: 50px;
     }
     .pen {
-        margin-top: 20px;
+        margin-top: 40px;
         margin-right: 40px;
     }
     .womenimg {
         margin-right: 40px;
     }
-    .readmore {
+    .readMore {
         margin-right: 40px; 
     }
     .arrow {
         display: none;
     }
-    .bigimgglobal {
+    .bigimgGlobal {
         margin-top: 15px;
     }
     .p-five {
@@ -143,21 +144,21 @@
     .asked {
         font-size: 30px;
         
-      }
-      .float-left-div {
-        margin-top: 20px;
-      }
-      .paragraph2 {
-          margin-top: 120px;
-         
-      }
-      .girldiv {
-        clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 0);
-      }
-
-      .getStarted {
-        width: 105px;
-        height: 40px;
-        font-size: 20px;
     }
+    .float-left-div {
+      margin-top: 20px;
+    }
+    .paragraph2 {
+        margin-top: 120px;
+        
+    }
+    .girlDiv {
+      clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 0);
+    }
+
+    .getStarted {
+      width: 105px;
+      height: 40px;
+      font-size: 20px;
+  }
 }

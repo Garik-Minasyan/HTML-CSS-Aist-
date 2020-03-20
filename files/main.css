@@ -84,7 +84,7 @@ li:hover {
   opacity: 29%;
   position: absolute;
 }
-.girldiv {
+.girlDiv {
   background-image: url(./../img/girl.jpg);
   background-size: cover;
   background-position:bottom;
@@ -96,7 +96,7 @@ li:hover {
   position:relative;
   
 }
-.textdiv {
+.textDiv {
   font-size: 60px;
   color: black;
   user-select: none;
@@ -112,7 +112,7 @@ li:hover {
   flex-wrap: wrap;
 }
 
-.textget {
+.textGet {
   margin-top: -350px;
   margin-left: 160px;
   position: relative;
@@ -143,14 +143,14 @@ li:hover {
   .paragraph3 {
     margin-top: 90px;
   }
-  .bigimg3 {
+  .bigImg3 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     margin-top: 70px;
   }
 
-  .imgsar {
+  .imgSar {
     background-image: url(./../img/sar.jpg);
     background-size: cover;
     width: 400px;
@@ -159,7 +159,7 @@ li:hover {
 
   }
 
-  .Feadured {
+  .feadured {
     font-size: 50px;
     margin-left: 70px;
     user-select: none;
@@ -170,7 +170,7 @@ li:hover {
     margin-top: 5px;
     user-select: none;
   }
-  .smoleimg {
+  .smoleImg {
     width: 31px;
     height: 31px;
     border-radius: 100%;
@@ -178,11 +178,11 @@ li:hover {
 
   }
 
-  .pinkdolar {
+  .pinkDolar {
     color: #D35135;
     font-size: 28px;
   }
-  .bigimg-1 {
+  .bigImg-1 {
     background-image: url(./../img/Webp.jpg);
     background-size: cover;
     height: 205px;
@@ -198,19 +198,19 @@ li:hover {
     height: 205px;
   }
 
-  .bigimgglobal {
+  .bigimgGlobal {
     border: 0.5px solid black;
     width: 368px;
     height:400px ;
   }
 
-  .whitediv {
+  .whiteDiv {
     width: 371px;
     height: 150px;
     margin-top: -5px;
     user-select: none;
   }
-  .Artur {
+  .artur {
     display: flex;
     justify-content: space-evenly;
     align-items:center;
@@ -262,7 +262,7 @@ li:hover {
     border: 0.5px solid #BDD531;
     transition: 0.3s;
   }
-  .arrowdiv {
+  .arrowDiv {
   width: 31px;
   height: 31px;
   margin-left: 10px;
@@ -289,21 +289,21 @@ li:hover {
   justify-content:space-around;
   background-color:#FAFAFA ;
 }
-.Articles {
+.articles {
   font-size: 50px;
   user-select: none;
   color: #292929;
 }
-.articlesread {
+.articlesRead {
   margin-left: 150px;
   margin-top: 70px;
 }
-.readmore {
+.readMore {
   display: flex;
   margin-top: 60px;
 }
 
-.paragraphflex {
+.paragraphFlex {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
@@ -425,7 +425,7 @@ li:hover {
   transition: 0.8s;
 }
 
-.deerpen {
+.deerPen {
   display: flex;
   flex-wrap: wrap;
   margin-top: -80px;
