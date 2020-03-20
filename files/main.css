@@ -1,14 +1,14 @@
-*{
+* {
   margin: 0px;
   padding: 0px;
 }
-.fa, .far,.fas, .fab{
+.fa, .far,.fas, .fab {
   font-family: FontAwesome !important;
   font-style: normal;
 }
 
                /* paragraph1 */
-.paragraph1{
+.paragraph1 {
   width: 100%;
   height: 80px;
   display: flex;
@@ -17,22 +17,22 @@
   align-items: center;
 
 }
-.learning{
+.learning {
   font-size: 33px;
   font-family:'Lilita One', cursive;
   user-select: none;
 }
-.onlneCourses{
+.onlneCourses {
   margin-left: 50px;
   user-select: none;
 }
 
-.ulMenu{
+.ulMenu {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
 }
-li{
+li {
   display: inline;
   margin-left: 20px;
   font-size: 16px;
@@ -41,15 +41,15 @@ li{
   user-select: none;
   
 }
-li:hover{
+li:hover {
   border-bottom: 3px solid #BDD531;
 }
-.signUps{
+.signUps {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
 }
-.signUp{
+.signUp {
   width: 140px;
   height: 80px;
   font-size: 16px;
@@ -69,7 +69,7 @@ li:hover{
   transition: 0.3s;
 }
                    /* paragraph2 */
-.paragraph2{
+.paragraph2 {
   width: 100%;
   display: flex;
   justify-content: flex-end;
@@ -77,14 +77,14 @@ li:hover{
   
 
 }
-.colorimg{
+.colorImg {
   width: 100%;
   height: 800px;
   background:transparent url(./../img/color.jpg);
   opacity: 29%;
   position: absolute;
 }
-.girldiv{
+.girldiv {
   background-image: url(./../img/girl.jpg);
   background-size: cover;
   background-position:bottom;
@@ -96,7 +96,7 @@ li:hover{
   position:relative;
   
 }
-.textdiv{
+.textdiv {
   font-size: 60px;
   color: black;
   user-select: none;
@@ -105,19 +105,19 @@ li:hover{
   position: relative;
   
 }
-.get{
+.get {
   display: flex;
   margin-top: 30px;
   opacity:100;
   flex-wrap: wrap;
 }
 
-.textget{
+.textget {
   margin-top: -350px;
   margin-left: 160px;
   position: relative;
 }
-.getStarted{
+.getStarted {
   opacity:100;
   width: 224px;
   height: 70px;
@@ -134,23 +134,23 @@ li:hover{
   border-radius: 6px;
  }
 
-  .getStarted:hover{
+  .getStarted:hover {
   border: 1px solid #BDD531;
   background-color: white;
   }
 
                  /* paragraph3 */
-  .paragraph3{
+  .paragraph3 {
     margin-top: 90px;
   }
-  .bigimg3{
+  .bigimg3 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     margin-top: 70px;
   }
 
-  .imgsar{
+  .imgsar {
     background-image: url(./../img/sar.jpg);
     background-size: cover;
     width: 400px;
@@ -159,18 +159,18 @@ li:hover{
 
   }
 
-  .Feadured{
+  .Feadured {
     font-size: 50px;
     margin-left: 70px;
     user-select: none;
   }
-  .ipsum{
+  .ipsum {
     font-size: 16px;
     margin-left: 70px;
     margin-top: 5px;
     user-select: none;
   }
-  .smoleimg{
+  .smoleimg {
     width: 31px;
     height: 31px;
     border-radius: 100%;
@@ -178,72 +178,72 @@ li:hover{
 
   }
 
-  .pinkdolar{
+  .pinkdolar {
     color: #D35135;
     font-size: 28px;
   }
-  .bigimg-1{
+  .bigimg-1 {
     background-image: url(./../img/Webp.jpg);
     background-size: cover;
     height: 205px;
   }
-  .bigimg-2{
+  .bigimg-2 {
     background-image: url(./../img/fantasy.jpg);
     background-size: cover;
     height: 205px;
   }
-  .bigimg-3{
+  .bigimg-3 {
     background-image: url(./../img/boy.jpg);
     background-size: cover;
     height: 205px;
   }
 
-  .bigimgglobal{
+  .bigimgglobal {
     border: 0.5px solid black;
     width: 368px;
     height:400px ;
   }
 
-  .whitediv{
+  .whitediv {
     width: 371px;
     height: 150px;
     margin-top: -5px;
     user-select: none;
   }
-  .Artur{
+  .Artur {
     display: flex;
     justify-content: space-evenly;
     align-items:center;
   }
-  .name{
+  .name {
     margin-top: 5px;
     margin-left: 10px;
     margin-top: 18px;
   }
-  .lorem{
+  .lorem {
     margin-top: 13px;
     user-select: none;
     margin-left: 10px;
    
   }
-  .loremipsumdolar{
+  .loremipsumdolar {
     margin-top: 30px;
     user-select: none;
   }
-  .buttons{
+  .buttons {
     margin-top: 30px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
   }
 
-  .view{
+  .view {
     display: flex;
   }
-  .arrow{
+  .arrow {
     display: flex;
   }
-  .viewall{
+  .viewall {
     width: 213px;
     height: 44px;
     border-radius: 8px;
@@ -257,12 +257,12 @@ li:hover{
     font-size: 16px;
     margin-top: 20px;
   }
-  .viewall:hover{
+  .viewall:hover {
     background-color: white;
     border: 0.5px solid #BDD531;
     transition: 0.3s;
   }
-  .arrowdiv{
+  .arrowdiv {
   width: 31px;
   height: 31px;
   margin-left: 10px;
@@ -275,13 +275,13 @@ li:hover{
   border: 0.5px solid white;
   }
 
-.arrowdiv:hover{
+.arrowdiv:hover {
   background-color: white;
   border: 1px solid #bdd531;
 }
   
                /* .paragraph4 */
-.paragraph4{
+.paragraph4 {
   width: 100%;
   height: 300px;
   margin-top: 100px;
@@ -289,27 +289,27 @@ li:hover{
   justify-content:space-around;
   background-color:#FAFAFA ;
 }
-.Articles{
+.Articles {
   font-size: 50px;
   user-select: none;
   color: #292929;
 }
-.articlesread{
+.articlesread {
   margin-left: 150px;
   margin-top: 70px;
 }
-.readmore{
+.readmore {
   display: flex;
   margin-top: 60px;
 }
 
-.paragraphflex{
+.paragraphflex {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
 
 }
-.womenimg{
+.womenimg {
   background-image:url('./../img/zenci.jpg');
   background-position: center;
   width: 337px;
@@ -317,7 +317,7 @@ li:hover{
   margin-left: 20px;
   margin-top: 40px;
 }
-.opendiv{
+.opendiv {
   width: 8px;
   height:289px;
   background-color:#BDD531;
@@ -330,17 +330,17 @@ li:hover{
   align-items: flex-end;
 }
 
-.womenimg:hover .opendiv{
+.womenimg:hover .opendiv {
   width: 110px;
   opacity: 0.76;
   transition: 0.8s;
 }
-.womenimg:hover .openp{
+.womenimg:hover .openp {
   display: block;
   transition: 0.8s;
 }
 
-.womenimgh3p{
+.womenimgh3p {
   margin-left: 50px;
 }
 .zenci{
@@ -351,12 +351,12 @@ li:hover{
   margin-top: 40px;
   transition: 0.5s;
 }
-.zenci:hover .opendiv{
+.zenci:hover .opendiv {
   width: 110px;
   opacity: 0.76;
   transition: 0.8s;
 }
-.zenci:hover .openp{
+.zenci:hover .openp {
   display: block;
   transition: 0.8s;
 }
@@ -365,7 +365,7 @@ li:hover{
   font-size: 20px;
 }
 
-.opendivdeer{
+.opendivdeer {
   width: 8px;
   height:331px;
   background-color:#BDD531;
@@ -378,24 +378,24 @@ li:hover{
   align-items: flex-end;
 }
 
-.deer{
+.deer {
   background-image: url(./../img/deer.jpg);
   background-size: cover;
   width: 331px;
   height: 331px;
 }
-.deer:hover .opendivdeer{
+.deer:hover .opendivdeer {
   width: 110px;
   opacity: 0.76;
   transition: 0.8s;
 }
-.deer:hover .openp{
+.deer:hover .openp {
   display: block;
   transition: 0.8s;
 }
 
 
-.opendivpen{
+.opendivpen {
   width: 8px;
   height:303px;
   background-color:#BDD531;
@@ -407,7 +407,7 @@ li:hover{
   justify-content: center;
   align-items: flex-end;
 }
-.pen{
+.pen {
   background-image: url(./../img/pen.jpg);
   background-size: cover;
   width: 273px;
@@ -415,24 +415,24 @@ li:hover{
   margin-left: 50px;
 }
 
-.pen:hover .opendivpen{
+.pen:hover .opendivpen {
   width: 110px;
   opacity: 0.76;
   transition: 0.8s;
 }
-.pen:hover .openp{
+.pen:hover .openp {
   display: block;
   transition: 0.8s;
 }
 
-.deerpen{
+.deerpen {
   display: flex;
   flex-wrap: wrap;
   margin-top: -80px;
   
 }
 
-.zencispirtual{
+.zencispirtual {
   display: flex;
   flex-wrap: wrap;
   margin-top: 50px;
@@ -440,19 +440,19 @@ li:hover{
 
 
 
-.h3p{
+.h3p {
   width: 304px;
   height: 104px;
   color: #292929;
 }
-.h3pp{
+.h3pp {
   width: 304px;
   height: 104px;
   margin-left: 30px;
   color: #292929;
 }
 
-.read{
+.read {
   width: 120px;
   height: 40px;
   background-color:#bdd531 ;
@@ -465,7 +465,7 @@ li:hover{
   border-radius: 6px;
   border:0.5px solid white;
 }
-.read:hover{
+.read:hover {
   background-color: white;
   border: 0.5px solid #bdd531;
 }
@@ -473,7 +473,7 @@ li:hover{
 
           /* .paragraph5 */
 
-.paragraph5{
+.paragraph5 {
   display: flex;
   flex-wrap: wrap;
   justify-content:space-around;
@@ -481,7 +481,7 @@ li:hover{
   margin-top: 20px;
 
 }          
-.clounimg{
+.clounimg {
   background-image: url(./../img/cloune.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -490,17 +490,17 @@ li:hover{
   height: 785px;
 }
 
-.thwoplus{
+.thwoplus {
   display: flex;
   margin-top: 50px;
 }
 
-.asked{
+.asked {
   font-size: 50px;
   user-select: none;
 }
 
-.p-five{
+.p-five {
   width: 500px;
   height: 50px;
   border-bottom: 1px solid black;
@@ -509,12 +509,12 @@ li:hover{
   user-select: none;
 }
 
-.asked-p{
+.asked-p {
   margin-left: 250px;
 
 }
 
-.plus{
+.plus {
   width: 31px;
   height: 31px;
   border: 0.5px solid #bdd531;
@@ -530,42 +530,42 @@ li:hover{
   user-select: none;
 }
 
-.plus:hover{
+.plus:hover {
   background-color: #bdd531;
   color: #FAFAFA;
 }
 
                   /* .paragraph6 */
 
-.peaky{
+.peaky {
   width: 172px;
   height: 172px;
 }
 
-.pealyimg{
+.pealyimg {
   flex-wrap: wrap;
   display: flex;
   justify-content: space-around;
 }
-.what{
+.what {
   font-size: 36px;
 }
 
-.img-h3-p-p{
+.img-h3-p-p {
   display: flex;
   margin-top: 30px;
   user-select: none;
 }
-.photograph{
+.photograph {
   margin-top: 40px;
   margin-left: 30px;
 }
-.temmy-cours{
+.temmy-cours {
   margin-left: 30px;
   user-select: none;
 }
 
-.float-left-div{
+.float-left-div {
   margin-top: 180px;
 }
 
@@ -573,7 +573,7 @@ li:hover{
 /* .paragraph7  */
 
 
-.footer{
+.footer {
   width: 100%;
   margin-top: 50px;
   height: 402px;
@@ -585,19 +585,19 @@ li:hover{
   align-content: center;
 }
 
-.learningg{
-  color: #FAFAFA;
+.learningg {
+  color:#FAFAFA;
   font-size: 33px;
   margin-top: 30px;
   margin-left: 130px;
 }
-.onlinecoursess{
-  color: white;
+.onlinecoursess {
+  color:white;
   margin-top: 10px;
   margin-left: 150px;
   user-select: none;
 }
-.border{
+.border {
   width: 50px;
   border-bottom: 1px solid white;
   margin-top: 30px;
@@ -605,11 +605,11 @@ li:hover{
   user-select: none;
 }
 
-.home{
+.home {
   color: #FAFAFA;
   
 }
-.footerul{
+.footerul {
   margin-top: 30px;
   
 }
@@ -619,7 +619,7 @@ li:hover{
   margin-top: 50px;
 }
 
-.icon{
+.icon {
   width: 35px;
   height: 35px;
   margin-left: 20px;
@@ -627,13 +627,13 @@ li:hover{
   align-content: center;
   align-items: center;
   justify-content: center;
-  background-color: black;
+  background-color:black;
   cursor: pointer;
   color: white;
 }
 
-.icon:hover{
-  background-color: yellowgreen;
+.icon:hover {
+  background-color:yellowgreen;
 
 }
 
